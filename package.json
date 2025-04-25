@@ -1,0 +1,23 @@
+{
+  "name": "serveraula08dwi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src",
+    "ex01": "node ./src/ex01",
+    "ex02": "node ./src/ex02",
+    "ex03": "node ./src/ex03",
+    "ex04": "node ./src/ex04",
+    "ex05": "node ./src/ex05"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  }
+}
